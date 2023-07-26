@@ -1,0 +1,15 @@
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/diksha/.rbenv/versions/3.0.3/bin/ruby -I /home/diksha/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20230109-82543-ykm9qz.rb extconf.rb
+creating Makefile
+
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20230109-82543-ocexf4/skiptrace/internal

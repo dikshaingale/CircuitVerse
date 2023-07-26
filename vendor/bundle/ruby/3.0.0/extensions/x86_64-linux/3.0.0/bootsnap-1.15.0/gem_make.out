@@ -1,0 +1,15 @@
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+/home/diksha/.rbenv/versions/3.0.3/bin/ruby -I /home/diksha/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20230109-82543-lbp8pz.rb extconf.rb
+creating Makefile
+
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20230109-82543-bcqp49/bootsnap

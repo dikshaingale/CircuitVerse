@@ -1,0 +1,13 @@
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/json-2.6.1/ext/json
+/home/diksha/.rbenv/versions/3.0.3/bin/ruby -I /home/diksha/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20230109-82543-jm4gps.rb extconf.rb
+creating Makefile
+
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/json-2.6.1/ext/json
+make DESTDIR\= clean
+
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/json-2.6.1/ext/json
+make DESTDIR\=
+make: Nothing to be done for 'all'.
+
+current directory: /home/diksha/Desktop/Project/CircuitVerse/vendor/bundle/ruby/3.0.0/gems/json-2.6.1/ext/json
+make DESTDIR\= install
